@@ -113,6 +113,7 @@ end
 
 <hr>
 <h2>Program:</h2>
+
 ```
 #Min-Max Search for Two Player Game
 #Tic-Tac-Toe
@@ -244,6 +245,7 @@ current_state = [['.','.','.'],
                  ['.','.','.',],
                  ['.','.','.',]]
 play()
+
 ```
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
