@@ -247,5 +247,14 @@ current_state = [['.','.','.'],
 play()
 
 ```
+<hr>
+
+<h2>Output</h2>:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24f2a3b5-7e55-4ac4-82e7-fd98f9d40e7d" />
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dddc9f8a-aa3b-4525-9863-e6271e1e3746" />
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
